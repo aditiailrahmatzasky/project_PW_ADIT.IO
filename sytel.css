@@ -34,7 +34,7 @@ body {
 font-family: "Tahoma";
 padding: 0;
 margin: 0;
-background-image: url("./image/Premier-League-Emblem.png");
+background-image: url("./Premier-League-Emblem.png");
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-position: calc(90%) bottom;
@@ -97,5 +97,5 @@ bottom: 0;
 right: 116px;
 width: 100px;
 height: 123px;
-background: url("./Assets/Image/Logo_SMKN_3_Pariaman.png") no-repeat center/contain; 
+background: url("./Premier-League-Emblem.png") no-repeat center/contain; 
 }
